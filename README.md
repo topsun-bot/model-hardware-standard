@@ -1,5 +1,7 @@
 # Model Hardware Standard (MHS)
 
+> **项目定位**：Notes on Anthropic Model Hardware Standard (MHS): AI agents ↔ physical devices (not the official spec)
+
 > 本仓是 Topsun 对 **Anthropic Model Hardware Standard** 的说明与跟踪笔记，**不是** Anthropic 官方规范仓库。规格原文与预览申请以 Anthropic 为准。
 
 ## 一句话
